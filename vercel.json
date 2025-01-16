@@ -1,0 +1,5 @@
+{
+    "routes": [
+      { "src": "/api/slow-api", "dest": "/api/slow-api.js" }
+    ]
+  }
